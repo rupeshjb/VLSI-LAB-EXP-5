@@ -68,7 +68,8 @@ endmodule
 
 
 # OUTPUT WAVEFORM:
-![image](https://github.com/GauravSunehl/VLSI-LAB-EXP-5/assets/166976407/545bcf70-1683-48af-aef2-bf9506543acb)
+![image](https://github.com/rupeshjb/VLSI-LAB-EXP-5/assets/119603360/bcd6bd97-1bf9-41cc-b1cb-fb3710528af0)
+
 
 
 # RESULT:
